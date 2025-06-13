@@ -1,4 +1,7 @@
-👋 Hi, I’m Kanana
+# 👋 Hi, I’m Kanana
+
+[![Kanana's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgmuchiri)](https://github.com/kgmuchiri/github-readme-stats)
+
 
 
 
