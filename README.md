@@ -2,6 +2,7 @@
 
 [![Kanana's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgmuchiri)](https://github.com/kgmuchiri/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgmuchiri)](https://github.com/kgmuchiri/github-readme-stats)
 
 
 
