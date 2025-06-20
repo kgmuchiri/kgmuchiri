@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kanana
+# Kanana Muchiri
 
 ## Technologies and Tools
 
